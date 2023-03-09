@@ -1,3 +1,3 @@
 # Cronometro
-Cronômetro feito utilizando CSS, HTML e JS para praticar functions e repetição.
+Cronômetro feito utilizando CSS, HTML e JS para praticar functions e condições.
 
